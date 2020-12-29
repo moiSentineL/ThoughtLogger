@@ -5,8 +5,8 @@ Simple and minimalist UI. No dependencies needed to download.
 
 Instructions:
 1. Download the release you want.
-2. Extract the .zip folder
-3. Run the installer.
+2. Run the installer.
+2. Run the application.
 
 And you are done!
 
