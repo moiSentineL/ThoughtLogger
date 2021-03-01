@@ -10,6 +10,8 @@ Instructions:
 
 And you are done!
 
-How to contribute: Give reviews and Pull up issues!
+How to contribute: Give reviews and pull up requests!
+
+And, improve the sourcecode.
 
 Thanks
