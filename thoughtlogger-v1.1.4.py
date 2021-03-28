@@ -82,3 +82,4 @@ main.geometry("{}x{}+{}+{}".format(window_width, window_height, x_cordinate, y_c
 main.title('Thought Logger')
 main.mainloop()
 
+#moisentinel
