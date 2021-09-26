@@ -4,6 +4,15 @@
 
 Simple and minimalist UI. No dependencies needed to download. 
 
+## Changelog for version 2.0
+
+- Added 'Delete Log' option.
+- New Icon for the app.
+- Added custom text for your wild needs.
+- Changed log file folder location (now on My Documents).
+- Better font.
+- Some minor changes. 
+---
 ## How To Download and Install?
 
 1. [Visit this page](https://github.com/moiSentineL/Thought-Logger/releases)
@@ -32,7 +41,7 @@ Click it and you'll find something like this-
 ![inifile](https://user-images.githubusercontent.com/68242099/134804412-6cfe96f7-9ed2-46d0-95b2-f26ec66aff04.png ".ini file")
 
 just edit the `text = Thought Logger` to `text = whatever you want it to be`.
-And you're all set.
+Save the file (Ctrl+S), And you're all set.
 
 ---
 ## How to support me
