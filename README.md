@@ -5,7 +5,7 @@
 Customise according to your needs. Simple to use. 
 
 ## Changelog for version 2.1
-**NOTE: The file gets replaced with a new one, so you must change the custom text manually.**
+**NOTE: The ini file gets replaced with a new one, so you must change the custom text manually.**
 - Added background color customisation options in .ini file.
 - Added font color customisation options in .ini file.
 - Better buttons.
