@@ -4,8 +4,16 @@
 
 Customise according to your needs. Simple to use. 
 
-## Changelog for version 2.1
-**NOTE: The ini file gets replaced with a new one, so you must change the custom text manually.**
+## Changelog for version 2.1.1
+
+- Added support for old .ini files. Now they don't get deleted instead their data gets imported and is replaced by the new one.
+- Added focus-on-entry after opening.
+Fixes:
+- Fixed .ini file creation.
+- Minor bugs fixed.
+
+### Main Release Changelog:
+
 - Added background color customisation options in .ini file.
 - Added font color customisation options in .ini file.
 - Better buttons.
