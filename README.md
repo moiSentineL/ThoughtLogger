@@ -1,17 +1,20 @@
 # Thought Logger
 
-### Private Thought Logger for CBT (Cognitive Behavioral Therapy).
+### Your Own Logger.
 
-Simple and minimalist UI. No dependencies needed to download. 
+Customise according to your needs. Simple to use. 
 
-## Changelog for version 2.0
+## Changelog for version 2.1
 
-- Added 'Delete Log' option.
-- New Icon for the app.
-- Added custom text for your wild needs.
-- Changed log file folder location (now on My Documents).
-- Better font.
-- Some minor changes. 
+- Added background color customisation options in .ini file.
+- Added font color customisation options in .ini file.
+- Better buttons.
+Fixes:
+- Added character limit (22) in custom text. 
+- Fixed some bugs and glitches.
+- Fixed entry box width.
+- Fixed fonts.
+- Minor UI Changes.
 ---
 ## How To Download and Install?
 
@@ -26,22 +29,28 @@ Simple and minimalist UI. No dependencies needed to download.
 
 After finishing the installation process, you must launch the app. And you'll be greeted with this.
 
-![interface](https://user-images.githubusercontent.com/68242099/134801978-cbc0e86e-0302-4128-b527-e89352eaf7b3.png "Interface")
+![interface](https://user-images.githubusercontent.com/68242099/135040367-b628056e-0554-4554-aaba-c56835e66a10.png "Interface")
 
 This is the interface. It's so easy to use that even an idiot would understand.
 
 ---
-## Changing the custom text
+## Customising your logger
 
 Ok this might be a little hard for the dum-dums, but you can do it.
 
 So, head over to your My Documents folder and find the 'Thought Logger' folder. There, you will find the **ThoughtLogger.ini** file.
 Click it and you'll find something like this-
 
-![inifile](https://user-images.githubusercontent.com/68242099/134804412-6cfe96f7-9ed2-46d0-95b2-f26ec66aff04.png ".ini file")
+![inifile](https://user-images.githubusercontent.com/68242099/135040471-4d9fd50b-72d3-4696-baac-9490145b5b62.png ".ini file")
 
-just edit the `text = Thought Logger` to `text = whatever you want it to be`.
-Save the file (Ctrl+S), And you're all set.
+#### To change the custom text:
+Change the `customtext` value to the text you'd like to appear. Remember, there is a limit of 22 characters.
+
+#### To change the background color:
+Change the `backgroundcolor` value to the hex code of the color you'd like to appear. For example `#000000` is for black.
+
+#### To change the background color:
+Change the `fontcolor` value to the hex code of the color you'd like to appear. For example `#fff` is for white.
 
 ---
 ## How to support me
