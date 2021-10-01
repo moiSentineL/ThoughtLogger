@@ -1,4 +1,4 @@
-# Thought Logger
+# ThoughtLogger
 
 ### Your Own Logger.
 
