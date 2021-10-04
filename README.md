@@ -63,7 +63,7 @@ Change the `fontcolor` value to the hex code of the color you'd like to appear. 
 ---
 ## AutoHotkey integration
 
-You can use [AutoHotkey](https://www.autohotkey.com/) to open your ThoughtLogger application with just a shortcut. Just get the `Run ThoughtLogger.ahk` file from the files and run the script.
+You can use [AutoHotkey](https://www.autohotkey.com/) to open your ThoughtLogger application with just a shortcut. Just get the **Run ThoughtLogger.ahk** file from the files and run the script.
 Note: AutoHotkey is needed to be installed for this.
 
 ---
