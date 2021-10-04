@@ -52,7 +52,7 @@ Click it and you'll find something like this-
 ![inifile](https://user-images.githubusercontent.com/68242099/135040471-4d9fd50b-72d3-4696-baac-9490145b5b62.png ".ini file")
 
 #### To change the custom text:
-Change the `customtext` value to the text you'd like to appear. Remember, there is a limit of 22 characters.
+Change the `customtext` value to the text you'd like to appear. Remember, there is a limit of **22 characters**.
 
 #### To change the background color:
 Change the `backgroundcolor` value to the hex code of the color you'd like to appear. For example `#000000` is for black.
