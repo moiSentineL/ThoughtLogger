@@ -61,6 +61,12 @@ Change the `backgroundcolor` value to the hex code of the color you'd like to ap
 Change the `fontcolor` value to the hex code of the color you'd like to appear. For example `#fff` is for white.
 
 ---
+## AutoHotkey integration
+
+You can use [AutoHotkey](https://www.autohotkey.com/) to open your ThoughtLogger application with just a shortcut. Just get the `Run ThoughtLogger.ahk` file from the files and run the script.
+Note: AutoHotkey is needed to be installed for this.
+
+---
 ## How to support me
 
 Just click this button on the top corner of the page ![image](https://user-images.githubusercontent.com/68242099/134804582-5936dece-ee1f-4bf0-b32b-f517322b2857.png "star button")
