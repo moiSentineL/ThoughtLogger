@@ -4,4 +4,4 @@
 ; to run this script on startup.
 ; AutoHotkey required.
 
-^!t::Run C:\Users\nibir\AppData\Roaming\Thought Logger\thoughtlogger.exe, C:\Users\nibir\AppData\Roaming\Thought Logger
+^!t::Run C:\Users\nibir\AppData\Roaming\ThoughtLogger\thoughtlogger.exe, C:\Users\nibir\AppData\Roaming\Thought Logger
