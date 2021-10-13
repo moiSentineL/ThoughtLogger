@@ -34,6 +34,7 @@ After finishing the installation process, you must launch the app. And you'll be
 ![interface](https://user-images.githubusercontent.com/68242099/137069866-9de85060-c0cf-4907-9e3d-3931f614e35f.png)
 
 This is the interface. Type your feelings into the bar and then press `Enter` to log the text into **Profile 1** or press `Shift+Enter` to log the text into **Profile 2**.
+
 Clicking the `See Log` button will open the last edited log file i.e. in which you have last entered. 
 
 **Tip:** Press `escape` key to close the window quickly.
