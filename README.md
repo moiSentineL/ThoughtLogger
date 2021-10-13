@@ -4,25 +4,19 @@
 
 Customise according to your needs. Simple to use. 
 
-## Changelog for version 2.1.1
+## Changelog for version 3.0.1
 
-- Added support for old .ini files. Now they don't get deleted instead their data gets imported and is replaced by the new one.
-- Added focus-on-entry after opening.
-Fixes:
-- Fixed .ini file creation.
-- Minor bugs fixed.
+- Added function to import old log into new one (#3) 
+- Font changes due to not working in other computers.
 
 ### Main Release Changelog:
 
-- Added background color customisation options in .ini file.
-- Added font color customisation options in .ini file.
-- Better buttons.
-Fixes:
-- Added character limit (22) in custom text. 
-- Fixed some bugs and glitches.
-- Fixed entry box width.
-- Fixed fonts.
-- Minor UI Changes.
+- Now you can log onto two different profiles.
+- Removed `Entry` Button.
+- Added basic deletion GUI.
+- App now creates `.log` files with headings.
+- `.log` file names changed to `profile1.log` and `profile2.log`.
+- And many minor bug fixes and such.
 ---
 ## How To Download and Install?
 
@@ -37,10 +31,16 @@ Fixes:
 
 After finishing the installation process, you must launch the app. And you'll be greeted with this.
 
-![interface](https://user-images.githubusercontent.com/68242099/135040367-b628056e-0554-4554-aaba-c56835e66a10.png "Interface")
+![interface](https://user-images.githubusercontent.com/68242099/137069866-9de85060-c0cf-4907-9e3d-3931f614e35f.png)
 
-This is the interface. It's so easy to use that even an idiot would understand.
+This is the interface. Type your feelings into the bar and then press `Enter` to log the text into **Profile 1** or press `Shift+Enter` to log the text into **Profile 2**.
 
+Clicking the `See Log` button will open the last edited log file i.e. in which you have last entered. 
+
+### Deleting a profile:
+Clicking on the `Delete Log` button will open this dialog, in which you can choose to delete any of the two profiles.
+
+![del_dialog](https://user-images.githubusercontent.com/68242099/137070237-bb6245e3-33fb-4d22-b13e-0cb564343fde.png)
 ---
 ## Customising your logger
 
@@ -51,13 +51,13 @@ Click it and you'll find something like this-
 
 ![inifile](https://user-images.githubusercontent.com/68242099/135040471-4d9fd50b-72d3-4696-baac-9490145b5b62.png ".ini file")
 
-#### To change the custom text:
+### To change the custom text:
 Change the `customtext` value to the text you'd like to appear. Remember, there is a limit of **22 characters**.
 
-#### To change the background color:
+### To change the background color:
 Change the `backgroundcolor` value to the hex code of the color you'd like to appear. For example `#000000` is for black.
 
-#### To change the background color:
+### To change the background color:
 Change the `fontcolor` value to the hex code of the color you'd like to appear. For example `#fff` is for white.
 
 ---
