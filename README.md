@@ -2,7 +2,7 @@
 
 ### Your Own Logger.
 
-Customise according to your needs. Simple to use. 
+Private Thought Logging Application for your needs. Customise to your own will.
 
 ## Changelog for version 3.0.1
 
