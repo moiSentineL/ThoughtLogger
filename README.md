@@ -36,7 +36,7 @@ After finishing the installation process, you must launch the app. And you'll be
 This is the interface. Type your feelings into the bar and then press `Enter` to log the text into **Profile 1** or press `Shift+Enter` to log the text into **Profile 2**.
 Clicking the `See Log` button will open the last edited log file i.e. in which you have last entered. 
 
-**Tip: ** Press `escape` key to close the window quickly.
+**Tip:** Press `escape` key to close the window quickly.
 
 ### Deleting a profile:
 Clicking on the `Delete Log` button will open this dialog, in which you can choose to delete any of the two profiles.
