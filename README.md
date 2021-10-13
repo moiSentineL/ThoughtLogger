@@ -34,8 +34,9 @@ After finishing the installation process, you must launch the app. And you'll be
 ![interface](https://user-images.githubusercontent.com/68242099/137069866-9de85060-c0cf-4907-9e3d-3931f614e35f.png)
 
 This is the interface. Type your feelings into the bar and then press `Enter` to log the text into **Profile 1** or press `Shift+Enter` to log the text into **Profile 2**.
-
 Clicking the `See Log` button will open the last edited log file i.e. in which you have last entered. 
+
+**Tip: ** Press `escape` key to close the window quickly.
 
 ### Deleting a profile:
 Clicking on the `Delete Log` button will open this dialog, in which you can choose to delete any of the two profiles.
@@ -64,6 +65,8 @@ Change the `fontcolor` value to the hex code of the color you'd like to appear. 
 ## AutoHotkey integration
 
 You can use [AutoHotkey](https://www.autohotkey.com/) to open your ThoughtLogger application with just a shortcut. Just get the **Run ThoughtLogger.ahk** file from the files and run the script.
+
+By default, the shortcut is set to `Ctrl+Alt+T`. You can change it with yourself. Just go throught their [Documentation](https://www.autohotkey.com/docs/Program.htm)
 Note: AutoHotkey is needed to be installed for this.
 
 ---
@@ -73,8 +76,8 @@ Just click this button on the top corner of the page ![image](https://user-image
 And pull requests!
 
 ---
-### And that's all you had to know to use the Thought Logger.
-#### Thanks for downloading.
+## And that's all you had to know to use the Thought Logger.
+### Thanks for downloading.
 
 
 
