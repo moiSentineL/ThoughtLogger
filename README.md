@@ -4,10 +4,12 @@
 
 Private Thought Logging Application for your needs. Customise to your own will.
 
-## Changelog for version 3.0.1
+## Changelog for version 3.0.2
 
-- Added function to import old log into new one (#3) 
-- Font changes due to not working in other computers.
+- Added icon in title bar.
+- Minor code changes.
+Known issues:
+- Old AutoHotkey script wasn't working, use the new one.
 
 ### Main Release Changelog:
 
