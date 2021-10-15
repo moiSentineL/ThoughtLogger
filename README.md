@@ -8,7 +8,8 @@ Private Thought Logging Application for your needs. Customise to your own will.
 
 - Added icon in title bar.
 - Minor code changes.
-Known issues:
+
+#### Known issues:
 - Old AutoHotkey script wasn't working, use the new one.
 
 ### Main Release Changelog:
