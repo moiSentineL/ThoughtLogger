@@ -4,13 +4,10 @@
 
 Private Thought Logging Application for your needs. Customise to your own will.
 
-## Changelog for version 3.0.2
+## Changelog for version 3.0.3
 
-- Added icon in title bar.
-- Minor code changes.
-
-#### Known issues:
-- Old AutoHotkey script wasn't working, use the new one.
+- Integrated logging. Logging file is at the Installed program directory.
+- Fixed some typos.
 
 ### Main Release Changelog:
 
