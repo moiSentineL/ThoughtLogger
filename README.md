@@ -4,19 +4,14 @@
 
 Private Thought Logging Application for your needs. Customise to your own will.
 
-## Changelog for version 3.0.3
+## Changelog for version 3.1
 
-- Integrated logging. Logging file is at the Installed program directory.
-- Fixed some typos.
+ - Made the application (supposedly) faster.
+ - Improved program error logging. #6 
+ 
+### Still Not Fixed:
 
-### Main Release Changelog:
-
-- Now you can log onto two different profiles.
-- Removed `Entry` Button.
-- Added basic deletion GUI.
-- App now creates `.log` files with headings.
-- `.log` file names changed to `profile1.log` and `profile2.log`.
-- And many minor bug fixes and such.
+- Resolution stretch on low resolutions (1366x768, etc)
 ---
 ## How To Download and Install?
 
