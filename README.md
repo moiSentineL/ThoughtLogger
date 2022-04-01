@@ -1,5 +1,5 @@
-# ThoughtLogger [ABANDONED]
-## This repository is now abandoned. I don't have enough time to maintain this
+# ThoughtLogger 
+## This repository is now partly-unmaintained.
 
 ### Your Own Logger.
 
