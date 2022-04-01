@@ -12,16 +12,12 @@ Private Thought Logging Application for your needs. Customise to your own will.
  
 ### Still Not Fixed:
 
-- Resolution stretch on low resolutions (1366x768, etc)
+- Window stretch on low resolutions (1366x768, etc)
 ---
 ## How To Download and Install?
 
-1. [Visit this page](https://github.com/moiSentineL/Thought-Logger/releases)
-2. Go to the "Assets" Section of the latest release.
-![Assets Section](https://user-images.githubusercontent.com/68242099/134801722-ea27157d-d770-4f1a-99de-26d85b7afd43.png "Assets Section")
-3. Click on the setup file to download it.
-4. Run the file.
-5. Follow the further instructions until it says "Finished".
+  1. Clone the repository, using `git clone https://github.com/moiSentineL/ThoughtLogger.git`
+  2. Run `thoughtlogger.pyw`
 ---
 ## How to Use?
 
@@ -61,7 +57,7 @@ Change the `fontcolor` value to the hex code of the color you'd like to appear. 
 ---
 ## AutoHotkey integration
 
-You can use [AutoHotkey](https://www.autohotkey.com/) to open your ThoughtLogger application with just a shortcut. Just get the **Run ThoughtLogger.ahk** file from the files and run the script.
+You can use [AutoHotkey](https://www.autohotkey.com/) to open your ThoughtLogger application with just a shortcut. Just run the **Run ThoughtLogger.ahk** script from the files.
 
 By default, the shortcut is set to `Ctrl+Alt+T`. You can change it with yourself. Just go throught their [Documentation](https://www.autohotkey.com/docs/Program.htm)
 Note: AutoHotkey is needed to be installed for this.
