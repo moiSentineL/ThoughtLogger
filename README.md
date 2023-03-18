@@ -1,5 +1,5 @@
 # ThoughtLogger 
-## This repository is now partly-unmaintained.
+## This repository is now unmaintained.
 
 ### Your Own Logger.
 
